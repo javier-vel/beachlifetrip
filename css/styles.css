@@ -1,0 +1,43 @@
+body {
+    font-family: "Inter", cursive;
+    background-image: url('../img/491rotate.jpg');
+    color: darkblue;
+}
+
+.navbar {
+    background-color: #3c9ed6;
+    font-size: 1.5rem;
+}
+
+.jumbotron {
+    padding: 30px;
+    background: #0e5792;
+    color: white;
+    margin: 0;
+}
+
+.main-container {
+    padding: 30px;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); 
+}
+  
+  .carousel {
+    border: solid #5637dd; 
+}
+.modal-header {
+    background-color: #0e5792;
+    color: white;
+}
+
+footer {
+    background: #0e5792;
+    color: white;
+    padding: 15px;
+}
